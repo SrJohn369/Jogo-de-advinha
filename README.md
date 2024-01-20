@@ -16,4 +16,4 @@ O projeto é bem simples e conta apenas com os arquivos essenciais para o jogo a
 
 ---
 #### Disponível para jogar aqui. Clique no controle e aproveite!  
-[<img width="48" height="48" src="https://img.icons8.com/color/48/controller.png" alt="controller"/>](Jogar)
+[<img width="48" height="48" src="https://img.icons8.com/color/48/controller.png" alt="controller"/>](https://jogo-de-advinha-xi.vercel.app/)
